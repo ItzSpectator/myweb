@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+body{color: white;
+background-image:url(https://i.pinimg.com/736x/0a/67/c0/0a67c056c4f360eaba4950bdd9092ab5.jpg) ;}
+header h1{
+    color: rgb(166, 201, 215);
+    text-align: center;
+    font-size: 400%;
+}
+nav a{color: aqua;}
+a:hover{color: red;}
+
+nav{ 
+    font-size: 200%;
+}
+body p{
+    font-size: 20px;
+    text-align: center;
+    color: #999;
+}
+main h2{
+    text-align: center;
+    color: rgb(152, 203, 210);
+}
+main h3{
+    text-align: center;
+    color: rgb(152, 203, 210);
+    font-size: 25px;
+}
+li{
+    text-align: center;
+    list-style-type: none;
+}
+li a{
+    color: rgb(165, 121, 246);
+}
+video{
+    display: block;
+    margin: auto;
+}
